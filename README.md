@@ -5,11 +5,6 @@ This platform allows users to explore freelancers, search by skills, and view de
 
 ---
 
-## Live Demo
-https://freelancer-marketplace-project.vercel.app
-
----
-
 ##  Features
 
 - 👨‍💻 Browse list of freelancers  
